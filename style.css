@@ -1,0 +1,51 @@
+body {
+	width: 100%;
+	background-image: url(wall3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+.navigation ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.navigation li {
+	display: inline;
+	padding: 10px;
+	float: right;
+}
+
+.navigation a {
+	color: white;
+}
+
+.sub-header h1 {
+	text-align: center;
+	color: white;
+	font-size: 90px;
+	padding-top: 140px;
+	letter-spacing: 5px;
+	font-family: segoe ui;
+}
+
+.images li {
+	display: inline;
+	padding: 30px;
+}
+
+.button {
+ padding-left: 500px;
+}
+
+.button1 {
+	background-color: white;
+	color: black;
+	padding-right: 450px;
+	font-size: 20px;
+	text-align: right;
+	font-style: oblique;
+}
